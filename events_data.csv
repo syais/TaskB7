@@ -1,0 +1,13 @@
+Date,Event_Type,News_Headline,Sentiment,Intensity,Reference
+15/01/2023,Earnings Report,"""Apple Reports Record Quarterly Earnings""",0.8,0.9,Apple's Q1 2023 Earnings Report
+10/02/2023,Economic Indicator,"""U.S. Unemployment Rate Falls to 3.4%""",0.6,0.7,Bureau of Labor Statistics - February 2023
+5/03/2023,Product Launch,"""Tesla Unveils New Model Y""",0.7,0.8,Tesla's Model Y Launch
+20/03/2023,Regulatory Change,"""SEC Proposes New Rules for Crypto Exchanges""",0.5,0.6,SEC's Proposed Rules for Crypto Exchanges
+15/04/2023,Earnings Report,"""Netflix Subscriber Growth Slows in Q1 2023""",-0.7,0.8,Netflix's Q1 2023 Earnings
+10/05/2023,Economic Indicator,"""Federal Reserve Raises Interest Rates by 0.25%""",-0.5,0.6,Federal Reserve Interest Rate Decision - May 2023
+1/06/2023,Sector News,"""Global Chip Shortage Eases, Supply Improves""",0.6,0.5,Chip Shortage Update - June 2023
+15/06/2023,Earnings Report,"""Microsoft Reports Strong Q4 2023 Earnings""",0.9,1,Microsoft's Q4 2023 Earnings
+1/07/2023,Product Issue,"""Boeing 737 Max Grounded Due to Engine Issues""",-0.6,0.7,Boeing 737 Max Grounding - July 2023
+1/08/2023,Regulatory Change,"""New EU Data Privacy Regulations Take Effect""",-0.4,0.5,EU's New Data Privacy Regulations - August 2023
+1/09/2023,Economic Indicator,"""China's Economic Growth Slows to 6%""",0.7,0.8,China's Economic Growth - September 2023
+15/10/2023,Earnings Report,"""Amazon's Q3 2023 Earnings Miss Expectations""",-0.8,0.9,Amazon's Q3 2023 Earnings
